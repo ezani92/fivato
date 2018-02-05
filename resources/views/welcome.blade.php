@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>fivato</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -79,7 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome To Fivato
+                    This domain is for sale
+                </div>
+                <div>
+                    Email me at <a href="mailto:ezani2607@gmail.com">ezani2607@gmail.com</a> to buy this domain.<br /><br /><br />Total Page View<br /><br />
+                    <img src="http://www.reliablecounter.com/count.php?page=fivato.com&digit=style/plain/1/&reloads=0" alt="www.reliablecounter.com" title="www.reliablecounter.com" border="0"></a>
                 </div>
             </div>
         </div>
